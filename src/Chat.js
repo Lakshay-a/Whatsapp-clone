@@ -50,6 +50,13 @@ function Chat() {
                         3:00pm
                     </span>
                 </p>
+                <p className="chat_message">
+                    <span className='chat_name'>Messi</span>
+                    Que miras bobo?
+                    <span className="chat_timestamp">
+                        3:05pm
+                    </span>
+                </p>
             </div>
 
             <div className="chat_footer">
