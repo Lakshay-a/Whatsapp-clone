@@ -44,7 +44,7 @@ function Chat() {
 
             <div className="chat_body">
                 <p className={`chat_message ${true && 'chat_receiver'}`}>
-                    <span className='chat_name'>daddy</span>
+                    <span className='chat_name'>Weghorst</span>
                     Hey!!
                     <span className="chat_timestamp">
                         3:00pm
