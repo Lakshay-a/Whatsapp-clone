@@ -1,13 +1,17 @@
+
 # Whatsapp clone
 
 Responsive clone of the current Whatsapp Web UI.
 
 Made with React.js and Material UI
 
-##Screenshots
+## Screenshots
+Here is a screenshot of the ui of the web app which contains a sidebar and a chat page with a profile view.
 
-Here is a screenshot of the ui of the web app which contains a sidebar
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
-##Author
 
--[@LakshayArora](https://github.com/Lakshay-a)
+## Authors
+
+- [@LakshayArora](https://github.com/Lakshay-a)
+
